@@ -50,46 +50,82 @@ export default function Home() {
 
           <div className='grid grid-cols-3 gap-4 mt-4'>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West </strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
             </a>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
             </a>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
             </a>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
             </a>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
             </a>
             <a href='' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors '>
-              <Image width={104} height={104} src="/album.jpg" alt="Capa album"/>
+              <Image width={104} height={104} src="/album.jpg" alt="Capa album" />
               <strong>Kanye West</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
-                <Play/>
+                <Play />
               </button>
+            </a>
+          </div>
+          <h2 className='font-semibold text-2xl mt-10'>Made for João Pedro Fernandes</h2>
+          <div className='grid grid-cols-8 gap-4 mt-4'>
+            <a href='' className='bg-white/5 p-2  rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image width={104} className='w-full' height={104} src="/album.jpg" alt="Capa album" />
+              <strong className='font-semibold'>Daily mix 1</strong>
+              <span className='text-sm text-zinc-500'>Kanye West, Travis Scott, Veigh and more</span>
+            </a>
+            <a href='' className='bg-white/5 p-2  rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image width={104} className='w-full' height={104} src="/album.jpg" alt="Capa album" />
+              <strong className='font-semibold'>Daily mix 1</strong>
+              <span className='text-sm text-zinc-500'>Kanye West, Travis Scott, Veigh and more</span>
+
+            </a>
+            <a href='' className='bg-white/5 p-2  rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image width={104} className='w-full' height={104} src="/album.jpg" alt="Capa album" />
+
+
+             <strong className='font-semibold'>Daily mix 1</strong>
+              <span className='text-sm text-zinc-500'>Kanye West, Travis Scott, Veigh and more</span>
+            </a>
+
+            <a href='' className='bg-white/5 p-2  rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image width={104} className='w-full' height={104} src="/album.jpg" alt="Capa album" />
+
+
+             <strong className='font-semibold'>Daily mix 1</strong>
+              <span className='text-sm text-zinc-500'>Kanye West, Travis Scott, Veigh and more</span>
+            </a>
+            <a href='' className='bg-white/5 p-2  rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image width={104} className='w-full' height={104} src="/album.jpg" alt="Capa album" />
+
+
+             <strong className='font-semibold'>Daily mix 1</strong>
+              <span className='text-sm text-zinc-500'>Kanye West, Travis Scott, Veigh and more</span>
             </a>
           </div>
         </main>
